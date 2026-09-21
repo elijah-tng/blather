@@ -40,3 +40,13 @@ java -cp junit-platform-console-standalone-<version>.jar org.junit.platform.cons
 * https://github.com/conormcd/clojure-test-junit-output
 * (meh) https://github.com/jclosure/my-app
 * 
+
+
+## todo - the unson question somewhere
+
+https://stackoverflow.com/questions/46160371/ast-diff-extractor-for-java
+
+
+## todo - 
+
+gnome+tiny+ activity+aw-rust
